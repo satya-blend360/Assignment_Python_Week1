@@ -190,10 +190,6 @@ All visualizations are interactive and allow you to explore the dataset in depth
 
 ---
 
-```
-
- 
-
 ### Dashboard Features
 - **Overview Tab**: Key metrics and monthly trends
 - **Regional Analysis**: State-wise performance breakdown
