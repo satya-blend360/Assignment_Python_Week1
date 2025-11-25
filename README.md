@@ -3,6 +3,13 @@
 This project performs **data cleaning, KPI computation, and exploratory analysis** on a real-world **Amazon Retail Sales dataset**.  
 It also includes an **Object-Oriented Python class (SalesAnalyzer)** encapsulating all analytics logic.
 
+
+
+👉 **Live Streamlit App:**
+[https://assignmentpythonweek1.streamlit.app/](https://assignmentpythonweek1.streamlit.app/)
+
+
+
 ---
 
 ## 📂 Project Structure
