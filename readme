@@ -210,6 +210,15 @@ python SalesAnalyzer.py
 ```
 
 ---
+## Live Streamlit App
+
+
+```bash
+streamlit run streamlit_app.py
+```
+**View the Interactive Dashboard:**  
+🔗 *https://your-streamlit-app-link-here.com*  
+**
 
 ## 🏁 Conclusion
 
