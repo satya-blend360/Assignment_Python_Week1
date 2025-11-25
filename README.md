@@ -148,7 +148,7 @@ analyzer.plot_outliers()
 Here is the **completed section** for your README, polished and ready to copy–paste, including your **Streamlit app link** and full details:
 
 ---
-  reademe
+  
 ## 📊 5. Interactive Streamlit Dashboard
 
 This project includes a fully interactive **Streamlit Dashboard** where you can explore Amazon Retail Sales visually.
@@ -272,7 +272,7 @@ streamlit run app.py
 
 ## 🚀 10. Technologies Used
 
-- **Python 3.8+**
+- **Python 3.12+**
 - **Pandas**: Data manipulation and cleaning
 - **NumPy**: Numerical computations
 - **Matplotlib**: Static visualizations
