@@ -145,12 +145,54 @@ analyzer.plot_outliers()
 
 ---
 
+Here is the **completed section** for your README, polished and ready to copy–paste, including your **Streamlit app link** and full details:
+
+---
+  reademe
 ## 📊 5. Interactive Streamlit Dashboard
 
-Launch the interactive dashboard to explore data visually:
+This project includes a fully interactive **Streamlit Dashboard** where you can explore Amazon Retail Sales visually.
+
+### 🚀 Launch Dashboard Locally
+To run the dashboard on your machine:
+
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
+````
+
+Make sure the required packages are installed:
+
+```bash
+pip install streamlit pandas numpy matplotlib seaborn plotly pyarrow
 ```
+
+---
+
+### 🌐 Live Hosted Dashboard
+
+You can view the hosted version of the dashboard here:
+
+👉 **Live Streamlit App:**
+[https://assignmentpythonweek1.streamlit.app/](https://assignmentpythonweek1.streamlit.app/)
+
+This dashboard includes:
+
+* 📈 Monthly Revenue Trends
+* 🛒 Category-wise Sales
+* 🗺 Top States by Sales
+* 👥 B2B vs B2C Split
+* 📦 Order Status Distribution
+* ⚠️ Outlier Detection
+* 🧹 Clean Data Preview
+* 🔍 Filters for Date, Category, Fulfilment, etc.
+
+All visualizations are interactive and allow you to explore the dataset in depth.
+
+---
+
+```
+
+ 
 
 ### Dashboard Features
 - **Overview Tab**: Key metrics and monthly trends
