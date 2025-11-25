@@ -1,0 +1,26 @@
+Retail Sales Data Cleaning & Exploratory Analysis
+
+Goal:
+    Use Pandas, NumPy, and Matplotlib to clean and analyze retail sales trends.
+
+Tasks:
+1. Handle missing values, duplicates, and incorrect data types.
+
+2. Convert columns (e.g., dates, numerics) appropriately.
+
+3. Compute KPIs such as:
+        Monthly Revenue
+        Region-wise Sales
+        Profit Margin (%)
+        Average Order Value
+        (Come up with 2–3 more KPIs of your choice)
+
+4. Visualize sales trends and outliers using Matplotlib or Seaborn.
+
+5. Apply OOP concepts — create a SalesAnalyzer class encapsulating all logic.
+
+Tech: Python, Pandas, NumPy, Matplotlib
+
+Deliverables: Cleaned CSV + .py script or Jupyter Notebook + output screenshots (cleaned data preview, trend charts, code execution)
+
+Dataset: https://wgcp-my.sharepoint.com/:f:/g/personal/ritish_jogi_blend360_com/EmxzwFjNkaxPuCw2mQ0abr0BGg6XzIPlj22VogFVtQniyg?e=aglSyr
